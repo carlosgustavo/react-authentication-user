@@ -51,8 +51,6 @@ $ yarn start
 <h3> Frontend (React) </h3>
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/carlosgustavo/react-authentication-user.git
 
 # Go into the repository
 $ cd  react-authentication-user/front-end
