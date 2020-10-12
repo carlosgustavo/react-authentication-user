@@ -1,0 +1,71 @@
+.Login-Group {
+  height: 75px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.Login-Field {
+  height: 50px;
+  font-size: 16px;
+  height: 45px;
+  width: 100%;
+  display: block;
+
+  box-sizing: border-box;
+  outline: none;
+  letter-spacing: 1px;
+  background-color: #cce4ff;
+  border: 1px solid #007aff;
+  color: #161616;
+  font-size: 16px;
+  padding: 15px 10px 10px 20px;
+  margin-right: 10px;
+  border-radius: 4px;
+}
+
+.Login-Field:focus {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  outline: none;
+}
+
+.Login-Error {
+  color: #ff8080;
+}
+
+.two-button {
+  display: flex;
+  align-items: flex-start;
+}
+.Login-Btn {
+  background: #1877f2;
+  color: #fdfdfd;
+  padding: 0.5rem 2rem;
+  border: none;
+  border-radius: 5px;
+  margin-top: 2rem;
+  font-size: 20px;
+  line-height: 30px;
+}
+.Register-Btn {
+  background: #42b72a;
+  color: #fdfdfd;
+  padding: 0.5rem 2rem;
+  border: none;
+  border-radius: 5px;
+  margin-top: 2rem;
+  margin-left: 10px;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.Login-Btn:hover {
+  cursor: pointer;
+  background-color: #166fe5;
+}
+.Register-Btn:hover {
+  cursor: pointer;
+  background-color: #36a420;
+}
+p {
+  color: #1d52ad;
+}

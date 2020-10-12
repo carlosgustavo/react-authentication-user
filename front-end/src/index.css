@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f0f2f5;
+  color: #0b3783;
+}
+.cadastra {
+  background: none;
+  background-color: #00a400;
+  border: none;
+  border-radius: 6px;
+  box-shadow: none;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  height: 36px;
+  overflow: hidden;
+  padding-left: 32px;
+  padding-right: 32px;
+  text-shadow: none;
+}
+.cadastra:hover {
+  cursor: pointer;
+  background: #00a400d3;
+}
+.home-h1 {
+  margin: 130px 0 0 108px;
+  font-size: 38px;
+}
+.man {
+  margin-top: 80px;
+}
