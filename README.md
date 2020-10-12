@@ -33,6 +33,7 @@ This project was developed with the following technologies:
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org/en/) or higher + [Yarn v1.13](https://yarnpkg.com/) or higher installed on your computer. From your command line:
 
 <h3> Backend (API) </h3>
+
 ```bash
 # Clone this repository
 $ git clone https://github.com/carlosgustavo/react-authentication-user.git
@@ -48,6 +49,7 @@ $ yarn start
 ```
 
 <h3> Frontend (React) </h3>
+
 ```bash
 # Clone this repository
 $ git clone https://github.com/carlosgustavo/react-authentication-user.git
