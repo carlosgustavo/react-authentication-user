@@ -1,2 +1,2 @@
 # react-authentication-user
-Project developed in React.js and Node.js. creating a user authentication and registration application.
+Project developed in React.js and Node.js. Application for authentication and user registration.
